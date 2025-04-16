@@ -24,3 +24,11 @@ In the `FetchChallenge` directory:
 # Or run with a custom hostname and port
 ./FetchChallenge -h '127.0.0.1' -p 8000
 ```
+
+# Run Integration Tests
+
+In the `FetchChallenge` directory:
+
+```bash
+go test ./router
+```
