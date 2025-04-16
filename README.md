@@ -4,10 +4,10 @@ Note: This project was developed with Go version 1.24
 
 ```bash
 # Get the code from github
-git clone
+git clone https://github.com/cquinn540/FetchChallenge.git
 
 # Change to the root directory
-cd
+cd FetchChallenge
 
 # Build the go binary
 go build
